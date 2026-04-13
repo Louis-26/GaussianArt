@@ -1,2 +1,7 @@
+__pycache__
+
 data/
 output/
+/git_script/
+/submodules/
+/SLURM_execution/
